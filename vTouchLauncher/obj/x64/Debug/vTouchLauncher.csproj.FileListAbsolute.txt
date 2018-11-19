@@ -30,3 +30,13 @@ C:\Users\RB\Desktop\vTouchLaucher\vTouchLauncher\obj\x64\Debug\vTouchLauncher.Fo
 C:\Users\RB\Desktop\vTouchLaucher\vTouchLauncher\obj\x64\Debug\vTouchLauncher.Form2.resources
 C:\Users\RB\Desktop\vTouchLaucher\vTouchLauncher\obj\x64\Debug\vTouchLauncher.Properties.Resources.resources
 C:\Users\RB\Desktop\vTouchLaucher\vTouchLauncher\obj\x64\Debug\vTouchLauncher.csproj.GenerateResource.Cache
+C:\Users\qaz88\Desktop\vTouchLaucher\vTouchLauncher\bin\x64\Debug\vTouchLauncher.exe.config
+C:\Users\qaz88\Desktop\vTouchLaucher\vTouchLauncher\obj\x64\Debug\vTouchLauncher.exe
+C:\Users\qaz88\Desktop\vTouchLaucher\vTouchLauncher\obj\x64\Debug\vTouchLauncher.pdb
+C:\Users\qaz88\Desktop\vTouchLaucher\vTouchLauncher\bin\x64\Debug\vTouchLauncher.exe
+C:\Users\qaz88\Desktop\vTouchLaucher\vTouchLauncher\bin\x64\Debug\vTouchLauncher.pdb
+C:\Users\qaz88\Desktop\vTouchLaucher\vTouchLauncher\obj\x64\Debug\vTouchLauncher.csprojResolveAssemblyReference.cache
+C:\Users\qaz88\Desktop\vTouchLaucher\vTouchLauncher\obj\x64\Debug\vTouchLauncher.Form1.resources
+C:\Users\qaz88\Desktop\vTouchLaucher\vTouchLauncher\obj\x64\Debug\vTouchLauncher.Form2.resources
+C:\Users\qaz88\Desktop\vTouchLaucher\vTouchLauncher\obj\x64\Debug\vTouchLauncher.Properties.Resources.resources
+C:\Users\qaz88\Desktop\vTouchLaucher\vTouchLauncher\obj\x64\Debug\vTouchLauncher.csproj.GenerateResource.Cache

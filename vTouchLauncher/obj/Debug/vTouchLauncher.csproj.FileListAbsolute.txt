@@ -1,1 +1,7 @@
 C:\Users\RB\Desktop\vTouchLauncher\vTouchLauncher\bin\Debug\vTouchLauncher.exe.config
+C:\Users\qaz88\Desktop\vTouchLaucher\vTouchLauncher\bin\Debug\vTouchLauncher.exe.config
+C:\Users\qaz88\Desktop\vTouchLaucher\vTouchLauncher\obj\Debug\vTouchLauncher.csprojResolveAssemblyReference.cache
+C:\Users\qaz88\Desktop\vTouchLaucher\vTouchLauncher\obj\Debug\vTouchLauncher.Form1.resources
+C:\Users\qaz88\Desktop\vTouchLaucher\vTouchLauncher\obj\Debug\vTouchLauncher.Form2.resources
+C:\Users\qaz88\Desktop\vTouchLaucher\vTouchLauncher\obj\Debug\vTouchLauncher.Properties.Resources.resources
+C:\Users\qaz88\Desktop\vTouchLaucher\vTouchLauncher\obj\Debug\vTouchLauncher.csproj.GenerateResource.Cache
