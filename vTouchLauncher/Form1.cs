@@ -60,8 +60,8 @@ namespace vTouchLauncher
         }
         private void panel1_MouseLeave(object sender, System.EventArgs e)
         {
-            Form2 newForm = new Form2();
-            newForm.Show();
+            //Form2 newForm = new Form2();
+            //newForm.Show();
         }
     }
 }

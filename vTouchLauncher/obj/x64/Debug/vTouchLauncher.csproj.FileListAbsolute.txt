@@ -19,3 +19,14 @@ C:\Users\qaz88\Desktop\vTouchLauncher\vTouchLauncher\obj\x64\Debug\vTouchLaunche
 C:\Users\qaz88\Desktop\vTouchLauncher\vTouchLauncher\obj\x64\Debug\vTouchLauncher.Form2.resources
 C:\Users\qaz88\Desktop\vTouchLauncher\vTouchLauncher\obj\x64\Debug\vTouchLauncher.Properties.Resources.resources
 C:\Users\qaz88\Desktop\vTouchLauncher\vTouchLauncher\obj\x64\Debug\vTouchLauncher.csproj.GenerateResource.Cache
+C:\Users\RB\Desktop\vTouchLaucher\vTouchLauncher\bin\x64\Debug\vTouchLauncher.exe.config
+C:\Users\RB\Desktop\vTouchLaucher\vTouchLauncher\obj\x64\Debug\vTouchLauncher.exe
+C:\Users\RB\Desktop\vTouchLaucher\vTouchLauncher\obj\x64\Debug\vTouchLauncher.pdb
+C:\Users\RB\Desktop\vTouchLaucher\vTouchLauncher\bin\x64\Debug\vTouchLauncher.exe
+C:\Users\RB\Desktop\vTouchLaucher\vTouchLauncher\bin\x64\Debug\vTouchLauncher.pdb
+C:\Users\RB\Desktop\vTouchLaucher\vTouchLauncher\bin\x64\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\RB\Desktop\vTouchLaucher\vTouchLauncher\obj\x64\Debug\vTouchLauncher.csprojResolveAssemblyReference.cache
+C:\Users\RB\Desktop\vTouchLaucher\vTouchLauncher\obj\x64\Debug\vTouchLauncher.Form1.resources
+C:\Users\RB\Desktop\vTouchLaucher\vTouchLauncher\obj\x64\Debug\vTouchLauncher.Form2.resources
+C:\Users\RB\Desktop\vTouchLaucher\vTouchLauncher\obj\x64\Debug\vTouchLauncher.Properties.Resources.resources
+C:\Users\RB\Desktop\vTouchLaucher\vTouchLauncher\obj\x64\Debug\vTouchLauncher.csproj.GenerateResource.Cache
